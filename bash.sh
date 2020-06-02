@@ -1,2 +1,3 @@
 #!/bin/bash
-hello navin
+hello navin  
+this is git
